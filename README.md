@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Bootstrap, CSS, Git & Github**
 
-- 📫 How to reach me **lucio98@hotmail.com**
+- 📫 How to reach me **lucioemolina@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
