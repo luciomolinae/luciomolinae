@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucio Molina</h1>
-<h3 align="center">Web Developer Trainee</h3>
+<h3 align="center">Front-End|React JS Trainee</h3>
 
 - 🔭 I’m currently working on **E-Commerce React-app**
 
