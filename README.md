@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucio Molina</h1>
-<h3 align="center">Front-End|React JS Trainee</h3>
+<h3 align="center">Python Dev Jr</h3>
 
 - 🔭 I’m currently working on **E-Commerce React-app**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://luciomolinaweb.netlify.app/](https://luciomolinaweb.netlify.app/)
 
-- 💬 Ask me about **JavaScript, Python, Bootstrap, CSS, SASS, Git & Github**
+- 💬 Ask me about **Python, PostgreSQL, Django, Flask Git & Github**
 
 - 📫 How to reach me **lucioemolina@gmail.com**
 
