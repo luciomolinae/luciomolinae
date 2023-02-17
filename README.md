@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-Commerce React-app**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://luciomolinaweb.netlify.app/](https://luciomolinaweb.netlify.app/)
 
