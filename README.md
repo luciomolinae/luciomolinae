@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im Support Specialist and Python Developer Jr. I am currently working as a Help Desk Level 1. I am also studying Electronics Engineering.
+Im Python Developer Junior I am also studying Electronics Engineering.
 
 
 ## 🌐 Socials:
